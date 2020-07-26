@@ -1,0 +1,7 @@
+# Environment config settings
+.env
+
+# Dependency directories
+__pycache__
+keepers
+aws

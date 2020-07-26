@@ -1,0 +1,9 @@
+
+KEYWORDS CSV FILE DESCRIPTION
+================================================================================
+
+keywords information is in the file "keywords.csv" and may be download from the below website:
+
+    https://www.kaggle.com/rounakbanik/the-movies-dataset?select=keywords.csv
+
+Download and save the file in this location before running momoMoviesDataProcessing.ipynb

@@ -1,0 +1,9 @@
+
+RATINGS_SMALL CSV FILE DESCRIPTION
+================================================================================
+
+Ratings information is in the file "ratings_small.csv" and may be download from the below website:
+
+    https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings_small.csv
+
+Download and save the file in this location before running momoMoviesDataProcessing.ipynb

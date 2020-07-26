@@ -1,0 +1,10 @@
+
+
+MOVIES_METADATA CSV FILE DESCRIPTION
+================================================================================
+
+Movie information is in the file "movies_metadata.csv" and may be download from the below website:
+
+    https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+
+Download and save the file in this location before running momoMoviesDataProcessing.ipynb
